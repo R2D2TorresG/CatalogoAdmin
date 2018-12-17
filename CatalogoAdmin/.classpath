@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.1%Foundation-1.1"/>
+	<classpathentry kind="lib" path="C:/Users/Latorres/Documents/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Latorres/Documents/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Latorres/Documents/lib/commons-lang3-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Latorres/Documents/lib/commons-fileupload-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Latorres/Documents/lib/spring-web-4.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Latorres/Documents/lib/spring-core-4.3.17.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
